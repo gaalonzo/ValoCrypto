@@ -1,7 +1,7 @@
 #[theme]
 # Primer color para elementos
 #primaryColor = "#3A3B3C"
-
+####
 # Color de fondo
 #backgroundColor = "#3A3B3C"
 

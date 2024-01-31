@@ -1,12 +1,12 @@
 [theme]
 # Primer color para elementos
-primaryColor = "#3A3B3C"
+#primaryColor = "#3A3B3C"
 
 # Color de fondo
-backgroundColor = "#3A3B3C"
+#backgroundColor = "#3A3B3C"
 
 # Color de fondo secundario
-secundaryBackgroundColor = "#3A3B3C"
+#secundaryBackgroundColor = "#3A3B3C"
 
 #Color para el texto
-textColor = "#fff"
+#textColor = "#fff"

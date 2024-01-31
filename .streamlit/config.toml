@@ -1,0 +1,12 @@
+[theme]
+# Primer color para elementos
+primaryColor = "#d33682"
+
+# Color de fondo
+backgroundColor = "#002b36"
+
+# Color de fondo secundario
+secundaryBackgroundColor = "#586e75"
+
+#Color para el texto
+textColor = "#fff"
